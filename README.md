@@ -1,4 +1,4 @@
-this agent is dedicated to helping manage tennants in both short term and long term real-estate properties
+this agent is dedicated to helping manage tennants in both short term and long term real-estate properties (datahacks '26)
 
 primary mode of communication is text & email
 
